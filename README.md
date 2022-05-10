@@ -1,4 +1,4 @@
-### Hi! Im Álef Rodrigues, computer sciencie student at the Universidade católica de Pernambuco 
+### Hi! Im Álef Rodrigues, computer sciencie student
 
 - 🌱 I’m currently learning basic Java and data base for Python
 
