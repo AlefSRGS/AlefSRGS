@@ -1,6 +1,6 @@
 ### Hi! Im Álef Rodrigues, computer sciencie student
 
-- 🌱 I’m currently learning Java and data analysis with Python
+- 🌱 I’m currently learning Java, data analysis with Python and Cybersecurity.
 
 <div align="center">
   <a href="https://github.com/AlefSRGS">
