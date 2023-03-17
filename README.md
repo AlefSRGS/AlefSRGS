@@ -1,6 +1,6 @@
 ### Hi! Im Álef Rodrigues, computer sciencie student
 
-- 📚 I’m currently learning Java, data analysis with Python and development web with HTML5 and CSS3.
+- 📚 I’m currently learning Java, data analysis with Python and cyber security.
 
 <div align="center">
   <a href="https://github.com/AlefSRGS">
@@ -8,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlefSRGS&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-  #### Languages I know:
+  #### Languages:
   <div style="display: inline_block">
   <img align="center" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
