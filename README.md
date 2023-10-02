@@ -1,6 +1,6 @@
-### Hi! Im Álef Rodrigues, computer sciencie student at catholic university of pernambuco (Unicap)
+### Hi! Im Álef Rodrigues, computer sciencie student at catholic university of Pernambuco (Unicap)
 
-- 📚 I’m currently studing Java and frameworks like Spring, data analysis and cyber security.
+- 📚 I’m currently studing Java, data analysis and cyber security.
 
 <div align="center">
   <a href="https://github.com/AlefSRGS">
